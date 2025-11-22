@@ -1,2 +1,1 @@
-# HexSoftwares_Music_Recommendation_System
-Music Recommendation System
+# Music_Recommender_System
